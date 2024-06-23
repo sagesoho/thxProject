@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="760a2aad-7154-49f7-98e9-b8b54c340837" name="Changes" comment="20240620">
+    <list default="true" id="760a2aad-7154-49f7-98e9-b8b54c340837" name="Changes" comment="20240621 + macd kdj">
+      <change afterPath="$PROJECT_DIR$/blank_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kdj.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +89,8 @@
       <updated>1718911816154</updated>
       <workItem from="1718911823252" duration="2229000" />
       <workItem from="1718933019926" duration="370000" />
+      <workItem from="1718994097051" duration="3118000" />
+      <workItem from="1719110021235" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="20240620">
       <option name="closed" value="true" />
@@ -104,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718933061386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20240620">
+      <option name="closed" value="true" />
+      <created>1718994118296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718994118296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="20240621 + macd kdj">
+      <option name="closed" value="true" />
+      <created>1718994360926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718994360926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240620" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240620" />
+    <MESSAGE value="20240621 + macd kdj" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240621 + macd kdj" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

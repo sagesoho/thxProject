@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="760a2aad-7154-49f7-98e9-b8b54c340837" name="Changes" comment="20240621 + macd kdj">
-      <change afterPath="$PROJECT_DIR$/blank_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kdj.py" afterDir="false" />
+    <list default="true" id="760a2aad-7154-49f7-98e9-b8b54c340837" name="Changes" comment="20240622 完成KDJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kdj.py" beforeDir="false" afterPath="$PROJECT_DIR$/kdj.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <workItem from="1718911823252" duration="2229000" />
       <workItem from="1718933019926" duration="370000" />
       <workItem from="1718994097051" duration="3118000" />
-      <workItem from="1719110021235" duration="1893000" />
+      <workItem from="1719110021235" duration="2597000" />
     </task>
     <task id="LOCAL-00001" summary="20240620">
       <option name="closed" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718994360926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20240622 完成KDJ">
+      <option name="closed" value="true" />
+      <created>1719113692886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719113692887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240620" />
     <MESSAGE value="20240621 + macd kdj" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240621 + macd kdj" />
+    <MESSAGE value="20240622 完成KDJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240622 完成KDJ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

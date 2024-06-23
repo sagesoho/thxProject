@@ -44,18 +44,18 @@ for i in range(0, total):
 # K＝MA（RSV，N2）
 # D＝MA（K，N3）
 # J=3*K-2*D
-for i in range(0, total):
-    RSV = (收盘价列表[i] - LLV(最低价列表[i], N1))/(HHV(最高价列表[i],N1))-LLV(最低价列表[i], N1)*100
-    K = MA(RSV, N2)
-    D = MA(K, N3)
-    J = 3*K-2*D
-
-    save("K", K, i)
-    save("D", D, i)
-    save("J", J, i)
-
-# 画线区域
-draw.curve("K")
-draw.curve("D")
-draw.curve("J")
-set.coordinate_axis("J", "%")
+# for i in range(0, total):
+#     RSV = (收盘价列表[i] - LLV(最低价列表[i], N1))/(HHV(最高价列表[i],N1))-LLV(最低价列表[i], N1)*100
+#     K = MA(RSV, N2)
+#     D = MA(K, N3)
+#     J = 3*K-2*D
+#
+#     save("K", K, i)
+#     save("D", D, i)
+#     save("J", J, i)
+#
+# # 画线区域
+# draw.curve("K")
+# draw.curve("D")
+# draw.curve("J")
+# set.coordinate_axis("J", "%")
